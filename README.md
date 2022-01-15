@@ -9,19 +9,19 @@ The purpose of this project is to audit and submit the election results to the e
 ## **Election-Audit Results**
 
 - How many votes were cast in this congressional election?
-		* 369,711 Total votes were cast in the congressional elecetion.
+	- 369,711 Total votes were cast in the congressional elecetion.
 
--Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
-		* From the election results analysis, 306,055 votes were casted in Denver county representing 82.8%. Jefferson had 38,855 votes representing 10.5% and Arapahoe had 24,801 representing 6.7% of the total votes. 
+- Provide a breakdown of the number of votes and the percentage of total votes for each county in the precinct.
+	- From the election results analysis, 306,055 votes were casted in Denver county representing 82.8%. Jefferson had 38,855 votes representing 10.5% and Arapahoe had 24,801 representing 6.7% of the total votes. 
 
--Which county had the largest number of votes?
-		* Based on the analysis of the election results, Denver county had the largest number of votes with a turnout of 306,055 representing 82.8% of the total votes cast.
+- Which county had the largest number of votes?
+	- Based on the analysis of the election results, Denver county had the largest number of votes with a turnout of 306,055 representing 82.8% of the total votes cast.
 
--Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
-		* From the image, out of the total votes of 369,711, Raymon Anthony Doane with the least number of votes cast had 11,606 representing 3.1% of total votes count. Followed by Charles Casper Stockham with 85,213 votes representing 23% of total votes cast. Diana Degette came on top with 272,892 votes representing 73.8% of the total votes cast.
+- Provide a breakdown of the number of votes and the percentage of the total votes each candidate received.
+	- From the image, out of the total votes of 369,711, Raymon Anthony Doane with the least number of votes cast had 11,606 representing 3.1% of total votes count. Followed by Charles Casper Stockham with 85,213 votes representing 23% of total votes cast. Diana Degette came on top with 272,892 votes representing 73.8% of the total votes cast.
 
--Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
-		*Diana DeGette won the election with votes count of  272,892 representing 73.8% of the total votes cast.
+- Which candidate won the election, what was their vote count, and what was their percentage of the total votes?
+	- Diana DeGette won the election with votes count of  272,892 representing 73.8% of the total votes cast.
 
 ## **Election-Audit Summary**
 
